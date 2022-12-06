@@ -1,0 +1,2 @@
+Its a text file in static directory.
+This is a static file and can be accessible through website.
